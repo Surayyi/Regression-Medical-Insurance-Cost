@@ -6,9 +6,9 @@ For example, Age, Body mass index and number of children covered by health insur
 
 Done by:
 
-##### Nawaf al Mutairi
+##### Nawaf almutairi
 
-##### Surayyi al Qahtani
+##### Surayyi Alqahtani
 
 *
 
