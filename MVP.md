@@ -1,4 +1,4 @@
-# building model for predicting the cost of medical insurance
+# Building Model for Predicting the Cost of Medical Insurance
 
 ## MVP
 The goal of this project is to help insurance companies to predict the price for every individual patient based on several factors.
